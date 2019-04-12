@@ -6,5 +6,7 @@ public class GitMain {
 		System.out.println("hello");
 		System.out.println("hello");// BBB
 		System.out.println("hello");
+		System.out.println("hello");// AAA
+		System.out.println("hello");
 	}
 }
