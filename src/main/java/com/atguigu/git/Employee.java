@@ -6,5 +6,6 @@ public class Employee {
 		
 		System.out.println("ccccc");
 		System.out.println("ccccc");
+		System.out.println("润色一下");
 	}
 }
